@@ -6,6 +6,7 @@ This CPU has a 3-stage pipeline: instruction fetch, execute, and write-back. Thi
 
 # Block Diagram
 The implemented RTL followed:
+
 ![image](https://github.com/user-attachments/assets/5019bff6-b308-4eca-be07-9cc905cab7bd)
 
 *taken from Mamo & Kime - Logic & Computer Design Fundamentals 
